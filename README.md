@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @Ashraful669
+- 👋 Hi, I’m @Ashraful669
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on simple open source project whcich can help me in understanding webdevelopment and open source system works.
